@@ -28,7 +28,7 @@
 
 A **Motiva** é uma das maiores empresas de infraestrutura de mobilidade do Brasil, administrando milhares de quilômetros de rodovias federais e estaduais.
 
-O desafio proposto consiste em criar uma solução tecnológica para **monitorar e gerenciar a vegetação ao longo das rodovias de forma inteligente**, substituindo o modelo atual — baseado em cronogramas fixos e inspeções presenciais — por um sistema orientado a dados, com priorização dinâmica e tomada de decisão mais eficiente.
+O desafio proposto consiste em criar uma solução tecnológica para **monitorar e gerenciar a vegetação ao longo das rodovias de forma inteligente**, substituindo o modelo atual baseado em cronogramas fixos e inspeções presenciais por um sistema orientado a dados, com priorização dinâmica e tomada de decisão mais eficiente.
 
 ### Problema atual
 
