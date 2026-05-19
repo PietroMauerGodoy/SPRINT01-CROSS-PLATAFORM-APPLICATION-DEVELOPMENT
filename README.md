@@ -12,6 +12,7 @@
 | Patrick Mansour | 562970 |
 | Pedro Henrique Ribeiro | 565090 |
 | Pietro Mauer | 564345 |
+| Ryan Santos | 565102 |
 | Samir Assad | 561562 |
 
 
